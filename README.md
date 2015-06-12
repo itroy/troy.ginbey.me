@@ -6,7 +6,7 @@
  - Tell a story, displaying communication and design skills, as well as creativity.
  - Suitable Metaphors: Backpack, Toolbox, Chest, Bookcase, Drawer, Wardrobe
 
-I've decided that the *Backpack* works well for the reason that I have used the same
+I've decided that the **Backpack** works well for the reason that I have used the same
 trusty backpack for a number of years. It has a load of character, and I never
 leave home without it, whether I am going to work, traveling, or just going to
 the beach. It stores everything I need for the day, from my camera, laptop, journal,
