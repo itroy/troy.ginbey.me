@@ -23,7 +23,7 @@ Most importantly, it has been with me on my journey to now, every step of the wa
  - Browserify
  - Minify
  - Watch
- - LiveReload
+ - BrowserSync (includes LiveReload)
  - SCSS implementing SMACSS methodology
  - Normalize
  - Grid System - Susy
@@ -37,3 +37,15 @@ Most importantly, it has been with me on my journey to now, every step of the wa
 
 ### Design requirements
  - Minimal
+
+### UI Requirements
+
+
+
+## Implementations
+
+### Gulp
+
+ - Browserify
+ - SCSS implementing SMACSS
+ - LiveReload

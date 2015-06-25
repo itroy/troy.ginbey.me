@@ -1,0 +1,47 @@
+/* Main */
+@import '../css/normalize';
+@import 'susy';
+
+$susy: (
+    columns: 12,
+    gutter: 1/4,
+    math: fluid,
+    output: float,
+    gutter-position: inside,
+);
+
+// Base: wherever this base element is on the page, it should look like this.
+
+// Layout: Divide the page into sections. They hold one (or more) modules together.
+// TODO: remove colour elements and anything unrelated to layout
+html, body {
+    height:100%;
+}
+
+#leftcol {
+    height: 100%;
+    width: 320px;
+    float: left;
+}
+#rightcol {
+
+}
+
+// Module: Reusable, modular parts of the design. eg sidebar section, product lists etc.
+nav {
+    background-color: #111;
+    height: 100%;
+    position: fixed;
+    width: 320px;
+
+    h1,h2,h3,h4,h5,h6 {
+        color: #666;
+    }
+    p,ul,li {
+        color: #999;
+    }
+}
+// State: Describe how modules or layouts look in a particular state (show / hide etc),
+// or how it will look on a particular page.
+
+// Theme: Apply certain theme to modules or overall application look & feel. Eg - reading view.
